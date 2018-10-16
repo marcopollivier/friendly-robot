@@ -23,7 +23,7 @@ No novo modelo nem o nome da cidade, nem do estado estarão mais tão visíveis.
 
 ## Como vai ficar sua placa antiga depois de trocar [3]
 
-Se seu carro possui o modelo atual (AAA 9999), e simples descobrir como ficara sua nova placa. 
+Se seu carro possui o modelo atual (AAA 9999), e simples descobrir como ficara sua nova placa (AAA 9A99). 
 Segundo o Denatran, as letras serão mantidas, o primeiro e os dois ultimos numeros tambem. 
 Apenas o segundo numero sera alterado de acordo com a tabela abaixo 
 
@@ -41,9 +41,8 @@ Apenas o segundo numero sera alterado de acordo com a tabela abaixo
 | 9 |	J |
 
 
-
-[1] http://blog.tnh1.com.br/pajucaraauto/2016/05/27/placas-de-carros-e-motos-vao-mudar-em-2017-veja-modelos/
-[2] http://domtotal.com/blog/thiagoventura/2018/09/12/nova-placa-padrao-mercosul-comeca-a-circular-no-brasil/
-[3] https://www.tribunapr.com.br/noticias/automoveis/placa-mercosul-como-vai-ficar-placa-carro-moto/
+- [1] http://blog.tnh1.com.br/pajucaraauto/2016/05/27/placas-de-carros-e-motos-vao-mudar-em-2017-veja-modelos/
+- [2] http://domtotal.com/blog/thiagoventura/2018/09/12/nova-placa-padrao-mercosul-comeca-a-circular-no-brasil/
+- [3] https://www.tribunapr.com.br/noticias/automoveis/placa-mercosul-como-vai-ficar-placa-carro-moto/
 
 https://www.flatout.com.br/a-historia-e-a-evolucao-das-placas-de-carro-do-brasil/
