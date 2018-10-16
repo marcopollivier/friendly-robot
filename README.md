@@ -40,11 +40,12 @@ Apenas o segundo numero sera alterado de acordo com a tabela abaixo
 | 8 |	I |
 | 9 |	J |
 
+## Leitura complementar
+
+- https://www.flatout.com.br/a-historia-e-a-evolucao-das-placas-de-carro-do-brasil/
+- http://domtotal.com/blog/thiagoventura/2018/09/12/nova-placa-padrao-mercosul-comeca-a-circular-no-brasil/
+
+## Referencias
 
 - [1] http://blog.tnh1.com.br/pajucaraauto/2016/05/27/placas-de-carros-e-motos-vao-mudar-em-2017-veja-modelos/
 - [2] https://www.tribunapr.com.br/noticias/automoveis/placa-mercosul-como-vai-ficar-placa-carro-moto/
-
-## Leitura complementar
-
-https://www.flatout.com.br/a-historia-e-a-evolucao-das-placas-de-carro-do-brasil/
-http://domtotal.com/blog/thiagoventura/2018/09/12/nova-placa-padrao-mercosul-comeca-a-circular-no-brasil/
